@@ -15,7 +15,7 @@ This project presents a comprehensive analysis of COVID-19 data using R programm
 ## Final Report
 The full research write-up is available here:
 
-**[Download COVID-19 Analysis Report](https://github.com/csbanda/Covid-19-Analysis/blob/main/covid19_analysis.pdf)**
+**[Check the COVID-19 Analysis Report here](https://github.com/csbanda/Covid-19-Analysis/blob/main/covid19_analysis.pdf)**
 
 ## Author
 **Chiluba Sarah Banda **  
